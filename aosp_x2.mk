@@ -23,8 +23,6 @@ $(call inherit-product, device/leeco/x2/device.mk)
 # Inherit some common AOSiP stuff.
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
-TARGET_SCREEN_HEIGHT := 1440
-TARGET_SCREEN_WIDTH := 2560
 TARGET_BOOT_ANIMATION_RES := 1440
 
 TARGET_GAPPS_ARCH := arm64
