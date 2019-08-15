@@ -24,7 +24,6 @@ $(call inherit-product, device/leeco/x2/device.mk)
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 TARGET_BOOT_ANIMATION_RES := 1440
-
 TARGET_GAPPS_ARCH := arm64
 
 PRODUCT_NAME := aosp_x2
