@@ -21,4 +21,4 @@
 # definition file).
 #
 
-add_lunch_combo aosp_x2-userdebug
+add_lunch_combo superior_x2-userdebug

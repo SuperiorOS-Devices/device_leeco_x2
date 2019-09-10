@@ -23,4 +23,4 @@
 
 # inherit MI PAD 4 HAVOC-OS device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_x2.mk
+    $(LOCAL_DIR)/superior_x2.mk
